@@ -6,7 +6,7 @@ Projeto vitrine de acesso as redes e divulgação digital. Porjeto em desenvolvi
 | -------------  | --- |
 | :sparkles: Nome        | RAFAUSSAURO UNDERSCORE
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://vscode.dev/profile/github/1de90d0bf91969056cef84efcaafae3e
+| :rocket: URL         | https://obscure-robot-4xwvrj4v9wpfjr99.github.dev/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
